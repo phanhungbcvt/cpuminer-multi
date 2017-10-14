@@ -13,7 +13,7 @@
 # ACTION-IF-NO is a list of shell commands that are run otherwise.
 # Note that using --without-libcurl does run ACTION-IF-NO.
 #
-# This macro #defines HAVE_LIBCURL if a working libcurl setup is
+
 # found, and sets @LIBCURL@ and @LIBCURL_CPPFLAGS@ to the necessary
 # values.  Other useful defines are LIBCURL_FEATURE_xxx where xxx are
 # the various features supported by libcurl, and LIBCURL_PROTOCOL_yyy
